@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+        section {
+            padding: 2em;
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 1em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Professional Portfolio</h1>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>I am M.Shalom Vishal graduated from Sri Venkateshwara College of Engineering.I am a Software developer with expertise in desining,coding,testing and maintaining software solutions.Proficient in various programming languages,adept at collaborating with stakeholders and committed to staying updated on emerging technologies.Strong analytical and program-solving skills,dedicated to delivering high-quality and innovative software.</p>
+
+        <h2>Resume</h2>
+        <ul>
+            <li>Education: B-Tech, Sri Venkateshwara College Of Engineering, 2026</li>
+            <li>Work Experience: Software Developer, Microsoft, 2026-2028</li>
+            <!-- Add more resume details as needed -->
+        </ul>
+
+        <h2>Professional Achievements</h2>
+        <p>1.Team Collaboration Award.</p>
+      <p>2.Exceptional Performance Award</p>
+        <!-- Add more sections like Skills, Work Samples, Testimonials, etc. -->
+
+        <h2>Contact Information</h2>
+        <ul>
+            <li>Email: shalomvishalmuttireddy@gmail.com</li>
+            <li>LinkedIn: https://www.linkedin.com/in/m-shalom-vishal-a6babb243</li>
+            <!-- Add more contact details as needed -->
+        </ul>
+    </section>
+</body>
+</html>
